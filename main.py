@@ -24,7 +24,6 @@ def main():
         screen.fill("black")
         
         dt = game_clock.tick(60) / 1000
-        print(dt)
 
         # leave at end of gameloop
         pygame.display.flip()
