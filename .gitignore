@@ -11,3 +11,8 @@ wheels/
 
 # my items
 game_state.jsonl
+
+#unknown might need to add to GIT
+uv.lock
+.python-version
+pyproject.toml
