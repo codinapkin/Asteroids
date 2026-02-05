@@ -11,7 +11,7 @@ wheels/
 
 # my items
 game_state.jsonl
-game_event.jsonl
+game_events.jsonl
 
 #unknown might need to add to GIT
 uv.lock
